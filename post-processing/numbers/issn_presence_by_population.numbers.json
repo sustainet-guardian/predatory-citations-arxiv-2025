@@ -1,0 +1,23 @@
+{
+  "issnpresence_gap_postcorr": {
+    "decimals": 1,
+    "kind": "float",
+    "value": 21.0
+  },
+  "issnpresence_legit_pct": {
+    "decimals": 1,
+    "den": 4175927,
+    "kind": "ratio",
+    "num": 2457431
+  },
+  "issnpresence_postcorr_pct": {
+    "decimals": 1,
+    "den": 2197,
+    "kind": "ratio",
+    "num": 831
+  },
+  "issnpresence_postcorr_with_issn_n": {
+    "kind": "int",
+    "value": 831
+  }
+}

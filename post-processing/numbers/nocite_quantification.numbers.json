@@ -1,0 +1,78 @@
+{
+  "nocite_bbl_only_attributable": {
+    "kind": "int",
+    "value": 12719
+  },
+  "nocite_bbl_only_attributable_pct": {
+    "decimals": 1,
+    "den": 40357,
+    "kind": "ratio",
+    "num": 12719
+  },
+  "nocite_bbl_only_non_attributable": {
+    "kind": "int",
+    "value": 27638
+  },
+  "nocite_bbl_only_total": {
+    "kind": "int",
+    "value": 40357
+  },
+  "nocite_excluded_broad_count": {
+    "kind": "int",
+    "value": 5903
+  },
+  "nocite_excluded_broad_rate": {
+    "decimals": 3,
+    "den": 8710316,
+    "kind": "ratio",
+    "num": 5903
+  },
+  "nocite_excluded_denominator": {
+    "kind": "int",
+    "value": 8710316
+  },
+  "nocite_excluded_strict_count": {
+    "kind": "int",
+    "value": 2192
+  },
+  "nocite_excluded_strict_rate": {
+    "decimals": 3,
+    "den": 8710316,
+    "kind": "ratio",
+    "num": 2192
+  },
+  "nocite_n_promoted_attributable": {
+    "kind": "int",
+    "value": 10456
+  },
+  "nocite_n_promoted_attributable_broad": {
+    "kind": "int",
+    "value": 8
+  },
+  "nocite_n_promoted_attributable_strict": {
+    "kind": "int",
+    "value": 5
+  },
+  "nocite_n_promoted_total": {
+    "kind": "int",
+    "value": 239214
+  },
+  "nocite_pct_broad_of_attributable": {
+    "decimals": 3,
+    "den": 10456,
+    "kind": "ratio",
+    "num": 8
+  },
+  "nocite_pct_of_promoted_attributable": {
+    "decimals": 1,
+    "den": 239214,
+    "kind": "ratio",
+    "num": 10456
+  },
+  "nocite_pct_strict_of_attributable": {
+    "decimals": 3,
+    "den": 10456,
+    "kind": "ratio",
+    "num": 5
+  }
+}

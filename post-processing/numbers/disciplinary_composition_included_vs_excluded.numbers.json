@@ -1,0 +1,38 @@
+{
+  "disccompexcl_cs_pct": {
+    "decimals": 1,
+    "den": 116759,
+    "kind": "ratio",
+    "num": 31757
+  },
+  "disccompexcl_math_pct": {
+    "decimals": 1,
+    "den": 116759,
+    "kind": "ratio",
+    "num": 30561
+  },
+  "disccompexcl_physics_pct": {
+    "decimals": 1,
+    "den": 116759,
+    "kind": "ratio",
+    "num": 42772
+  },
+  "disccompincl_cs_pct": {
+    "decimals": 1,
+    "den": 167727,
+    "kind": "ratio",
+    "num": 97086
+  },
+  "disccompincl_math_pct": {
+    "decimals": 1,
+    "den": 167727,
+    "kind": "ratio",
+    "num": 12104
+  },
+  "disccompincl_physics_pct": {
+    "decimals": 1,
+    "den": 167727,
+    "kind": "ratio",
+    "num": 41617
+  }
+}

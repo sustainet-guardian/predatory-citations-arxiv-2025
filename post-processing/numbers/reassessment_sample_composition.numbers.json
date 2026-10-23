@@ -1,0 +1,162 @@
+{
+  "reevalsample_broad_both_n": {
+    "kind": "int",
+    "value": 12
+  },
+  "reevalsample_broad_either_n": {
+    "kind": "int",
+    "value": 12
+  },
+  "reevalsample_broad_main_n": {
+    "kind": "int",
+    "value": 12
+  },
+  "reevalsample_broad_reeval_n": {
+    "kind": "int",
+    "value": 12
+  },
+  "reevalsample_conf_broad_both_corrected_n": {
+    "kind": "int",
+    "value": 9
+  },
+  "reevalsample_conf_broad_both_raw_n": {
+    "kind": "int",
+    "value": 9
+  },
+  "reevalsample_conf_broad_main_corrected_n": {
+    "kind": "int",
+    "value": 9
+  },
+  "reevalsample_conf_broad_main_raw_n": {
+    "kind": "int",
+    "value": 9
+  },
+  "reevalsample_conf_broad_reeval_corrected_n": {
+    "kind": "int",
+    "value": 9
+  },
+  "reevalsample_conf_broad_reeval_raw_n": {
+    "kind": "int",
+    "value": 9
+  },
+  "reevalsample_conf_strict_both_corrected_n": {
+    "kind": "int",
+    "value": 3
+  },
+  "reevalsample_conf_strict_both_raw_n": {
+    "kind": "int",
+    "value": 3
+  },
+  "reevalsample_conf_strict_main_corrected_n": {
+    "kind": "int",
+    "value": 3
+  },
+  "reevalsample_conf_strict_main_raw_n": {
+    "kind": "int",
+    "value": 3
+  },
+  "reevalsample_conf_strict_reeval_corrected_n": {
+    "kind": "int",
+    "value": 3
+  },
+  "reevalsample_conf_strict_reeval_raw_n": {
+    "kind": "int",
+    "value": 3
+  },
+  "reevalsample_confirmed_share_of_population": {
+    "decimals": 3,
+    "den": 8720772,
+    "kind": "ratio",
+    "num": 7738
+  },
+  "reevalsample_flagged_either_n": {
+    "kind": "int",
+    "value": 12
+  },
+  "reevalsample_flagged_flip_any_status_n": {
+    "kind": "int",
+    "value": 0
+  },
+  "reevalsample_flagged_flip_broad_status_n": {
+    "kind": "int",
+    "value": 0
+  },
+  "reevalsample_flagged_flip_final_assessment_n": {
+    "kind": "int",
+    "value": 0
+  },
+  "reevalsample_flagged_flip_strict_status_n": {
+    "kind": "int",
+    "value": 0
+  },
+  "reevalsample_frame_broad_in_band_n": {
+    "kind": "int",
+    "value": 3193
+  },
+  "reevalsample_frame_broad_n": {
+    "kind": "int",
+    "value": 5911
+  },
+  "reevalsample_frame_files_in_band": {
+    "kind": "int",
+    "value": 96184
+  },
+  "reevalsample_frame_files_total": {
+    "kind": "int",
+    "value": 189637
+  },
+  "reevalsample_frame_strict_in_band_n": {
+    "kind": "int",
+    "value": 1077
+  },
+  "reevalsample_frame_strict_n": {
+    "kind": "int",
+    "value": 2197
+  },
+  "reevalsample_n_confirmed_cited": {
+    "kind": "int",
+    "value": 7738
+  },
+  "reevalsample_n_files": {
+    "kind": "int",
+    "value": 168
+  },
+  "reevalsample_n_flips": {
+    "kind": "int",
+    "value": 69
+  },
+  "reevalsample_n_joined": {
+    "kind": "int",
+    "value": 10564
+  },
+  "reevalsample_n_resolved_eligible": {
+    "kind": "int",
+    "value": 4226
+  },
+  "reevalsample_resolved_share_of_population": {
+    "decimals": 3,
+    "den": 4277878,
+    "kind": "ratio",
+    "num": 4226
+  },
+  "reevalsample_strict_both_n": {
+    "kind": "int",
+    "value": 4
+  },
+  "reevalsample_strict_either_n": {
+    "kind": "int",
+    "value": 4
+  },
+  "reevalsample_strict_main_n": {
+    "kind": "int",
+    "value": 4
+  },
+  "reevalsample_strict_reeval_n": {
+    "kind": "int",
+    "value": 4
+  },
+  "reevalsample_to_or_from_predatory_flips_n": {
+    "kind": "int",
+    "value": 0
+  }
+}

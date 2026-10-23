@@ -1,0 +1,42 @@
+{
+  "a1_log_having_identified_as_cited": {
+    "kind": "int",
+    "value": 8703631
+  },
+  "a1_log_having_materialization_gap": {
+    "kind": "int",
+    "value": 778
+  },
+  "a1_log_having_residual_x": {
+    "kind": "int",
+    "value": -17919
+  },
+  "corpus_candidate_population": {
+    "kind": "int",
+    "value": 27583307
+  },
+  "corpus_confirmed_cited_entries": {
+    "kind": "int",
+    "value": 8720772
+  },
+  "corpus_excluded_entries": {
+    "kind": "int",
+    "value": 18570868
+  },
+  "corpus_multi_bib_excess_dup_rows": {
+    "kind": "int",
+    "value": 164130
+  },
+  "corpus_n_multi_bib_submissions": {
+    "kind": "int",
+    "value": 15853
+  },
+  "corpus_raw_total_entries": {
+    "kind": "int",
+    "value": 113262987
+  },
+  "corpus_unverified_entries": {
+    "kind": "int",
+    "value": 291667
+  }
+}

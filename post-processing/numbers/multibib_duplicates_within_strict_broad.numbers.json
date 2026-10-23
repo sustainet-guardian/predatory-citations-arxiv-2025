@@ -1,0 +1,32 @@
+{
+  "multibib_broad_n_excess_rows": {
+    "kind": "int",
+    "value": 110
+  },
+  "multibib_broad_rate_shift_pp": {
+    "decimals": 6,
+    "kind": "float",
+    "value": 1.45905e-05
+  },
+  "multibib_current_broad_rate": {
+    "decimals": 3,
+    "den": 8720772,
+    "kind": "ratio",
+    "num": 5911
+  },
+  "multibib_current_strict_rate": {
+    "decimals": 3,
+    "den": 8720772,
+    "kind": "ratio",
+    "num": 2197
+  },
+  "multibib_strict_n_excess_rows": {
+    "kind": "int",
+    "value": 33
+  },
+  "multibib_strict_rate_shift_pp": {
+    "decimals": 6,
+    "kind": "float",
+    "value": 9.75712e-05
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "disccite_cs_strict_pct": {
+    "decimals": 3,
+    "den": 4796768,
+    "kind": "ratio",
+    "num": 1579
+  },
+  "disccite_math_broad_pct": {
+    "decimals": 3,
+    "den": 419440,
+    "kind": "ratio",
+    "num": 1204
+  },
+  "disccite_math_strict_pct": {
+    "decimals": 3,
+    "den": 419440,
+    "kind": "ratio",
+    "num": 51
+  },
+  "disccite_other_strict_pct": {
+    "decimals": 3,
+    "den": 712364,
+    "kind": "ratio",
+    "num": 226
+  },
+  "disccite_physics_strict_pct": {
+    "decimals": 3,
+    "den": 2792200,
+    "kind": "ratio",
+    "num": 341
+  }
+}

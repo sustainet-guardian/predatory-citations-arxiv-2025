@@ -1,0 +1,36 @@
+{
+  "concern_n_any_flag": {
+    "kind": "int",
+    "value": 13847
+  },
+  "concern_n_broad_only": {
+    "kind": "int",
+    "value": 3810
+  },
+  "concern_n_broad_total_incl_overlaps": {
+    "kind": "int",
+    "value": 4697
+  },
+  "concern_n_hijacked_only": {
+    "kind": "int",
+    "value": 335
+  },
+  "concern_n_hijacked_total_incl_overlaps": {
+    "kind": "int",
+    "value": 449
+  },
+  "concern_n_papers": {
+    "kind": "int",
+    "value": 166761
+  },
+  "concern_n_retraction_only": {
+    "kind": "int",
+    "value": 8767
+  },
+  "concern_pct_retraction_of_flagged": {
+    "decimals": 1,
+    "den": 13847,
+    "kind": "ratio",
+    "num": 9649
+  }
+}

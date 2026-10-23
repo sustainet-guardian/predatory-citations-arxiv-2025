@@ -1,0 +1,22 @@
+{
+  "unknownvenues_n_distinct": {
+    "kind": "int",
+    "value": 198248
+  },
+  "unknownvenues_n_total": {
+    "kind": "int",
+    "value": 2269673
+  },
+  "unknownvenues_tophundred_pct": {
+    "decimals": 1,
+    "den": 2269673,
+    "kind": "ratio",
+    "num": 1270866
+  },
+  "unknownvenues_topten_pct": {
+    "decimals": 1,
+    "den": 2269673,
+    "kind": "ratio",
+    "num": 847435
+  }
+}

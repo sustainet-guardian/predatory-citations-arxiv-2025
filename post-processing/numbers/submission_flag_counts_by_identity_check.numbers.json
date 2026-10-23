@@ -1,0 +1,50 @@
+{
+  "correction_after_broad_citations_n": {
+    "kind": "int",
+    "value": 5911
+  },
+  "correction_after_broad_submissions_n": {
+    "kind": "int",
+    "value": 4697
+  },
+  "correction_after_strict_citations_n": {
+    "kind": "int",
+    "value": 2197
+  },
+  "correction_after_strict_submissions_n": {
+    "kind": "int",
+    "value": 1917
+  },
+  "correction_before_broad_citations_n": {
+    "kind": "int",
+    "value": 6430
+  },
+  "correction_before_broad_submissions_n": {
+    "kind": "int",
+    "value": 5083
+  },
+  "correction_before_strict_citations_n": {
+    "kind": "int",
+    "value": 2723
+  },
+  "correction_before_strict_submissions_n": {
+    "kind": "int",
+    "value": 2336
+  },
+  "correction_gained_broad_submissions_n": {
+    "kind": "int",
+    "value": 0
+  },
+  "correction_gained_strict_submissions_n": {
+    "kind": "int",
+    "value": 0
+  },
+  "correction_lost_broad_submissions_n": {
+    "kind": "int",
+    "value": 386
+  },
+  "correction_lost_strict_submissions_n": {
+    "kind": "int",
+    "value": 419
+  }
+}

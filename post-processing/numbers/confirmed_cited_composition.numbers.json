@@ -1,0 +1,102 @@
+{
+  "confpop_n_bbl_only_keys": {
+    "kind": "int",
+    "value": 40357
+  },
+  "confpop_n_bbl_only_keys_already_confirmed": {
+    "kind": "int",
+    "value": 1697
+  },
+  "confpop_n_bbl_only_keys_no_entry_row": {
+    "kind": "int",
+    "value": 13555
+  },
+  "confpop_n_bbl_only_keys_only_non_confirmed_entries": {
+    "kind": "int",
+    "value": 0
+  },
+  "confpop_n_bbl_only_keys_with_promoted_entry": {
+    "kind": "int",
+    "value": 25105
+  },
+  "confpop_n_entries_in_log_files": {
+    "kind": "int",
+    "value": 8702853
+  },
+  "confpop_n_entries_in_no_log_files": {
+    "kind": "int",
+    "value": 17919
+  },
+  "confpop_n_files_with_log": {
+    "kind": "int",
+    "value": 178662
+  },
+  "confpop_n_files_without_log": {
+    "kind": "int",
+    "value": 10975
+  },
+  "confpop_n_missed_keys": {
+    "kind": "int",
+    "value": 221295
+  },
+  "confpop_n_nocite_attributable_keys": {
+    "kind": "int",
+    "value": 12719
+  },
+  "confpop_n_original_population": {
+    "kind": "int",
+    "value": 8499477
+  },
+  "confpop_n_other_origin": {
+    "kind": "int",
+    "value": 0
+  },
+  "confpop_n_own_log": {
+    "kind": "int",
+    "value": 8481558
+  },
+  "confpop_n_promoted_distinct_keys": {
+    "kind": "int",
+    "value": 234925
+  },
+  "confpop_n_promoted_entries_nocite_attributable": {
+    "kind": "int",
+    "value": 10456
+  },
+  "confpop_n_promoted_keys_bbl_and_tex": {
+    "kind": "int",
+    "value": 161199
+  },
+  "confpop_n_promoted_keys_bbl_only": {
+    "kind": "int",
+    "value": 25105
+  },
+  "confpop_n_promoted_keys_no_usable_signal": {
+    "kind": "int",
+    "value": 0
+  },
+  "confpop_n_promoted_keys_tex_scan_only": {
+    "kind": "int",
+    "value": 48621
+  },
+  "confpop_n_promoted_no_log": {
+    "kind": "int",
+    "value": 17919
+  },
+  "confpop_n_promoted_no_log_isolated": {
+    "kind": "int",
+    "value": 15720
+  },
+  "confpop_n_promoted_no_log_sibling": {
+    "kind": "int",
+    "value": 2199
+  },
+  "confpop_n_promoted_total": {
+    "kind": "int",
+    "value": 239214
+  },
+  "confpop_n_total": {
+    "kind": "int",
+    "value": 8720772
+  }
+}

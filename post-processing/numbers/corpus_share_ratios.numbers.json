@@ -1,0 +1,44 @@
+{
+  "concern_broad_only_pct": {
+    "decimals": 1,
+    "den": 13847,
+    "kind": "ratio",
+    "num": 3810
+  },
+  "concern_broad_total_pct": {
+    "decimals": 1,
+    "den": 13847,
+    "kind": "ratio",
+    "num": 4697
+  },
+  "concern_hijacked_only_pct": {
+    "decimals": 1,
+    "den": 13847,
+    "kind": "ratio",
+    "num": 335
+  },
+  "concern_hijacked_total_pct": {
+    "decimals": 1,
+    "den": 13847,
+    "kind": "ratio",
+    "num": 449
+  },
+  "concern_retraction_only_pct": {
+    "decimals": 1,
+    "den": 13847,
+    "kind": "ratio",
+    "num": 8767
+  },
+  "submission_broad_pct": {
+    "decimals": 2,
+    "den": 166761,
+    "kind": "ratio",
+    "num": 4697
+  },
+  "submission_strict_pct": {
+    "decimals": 2,
+    "den": 166761,
+    "kind": "ratio",
+    "num": 1917
+  }
+}

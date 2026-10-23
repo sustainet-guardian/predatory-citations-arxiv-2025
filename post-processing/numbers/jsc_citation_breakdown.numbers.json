@@ -1,0 +1,20 @@
+{
+  "jscrecount_genuine_issn_match_pct": {
+    "decimals": 1,
+    "den": 1719,
+    "kind": "ratio",
+    "num": 1258
+  },
+  "jscrecount_genuine_kluwer_legacy_doi_pct": {
+    "decimals": 1,
+    "den": 1719,
+    "kind": "ratio",
+    "num": 12
+  },
+  "jscrecount_genuine_springer_doi_pct": {
+    "decimals": 1,
+    "den": 1719,
+    "kind": "ratio",
+    "num": 449
+  }
+}

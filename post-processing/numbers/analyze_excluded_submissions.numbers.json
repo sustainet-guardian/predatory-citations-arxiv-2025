@@ -1,0 +1,52 @@
+{
+  "corpus_covered_submissions": {
+    "kind": "int",
+    "value": 167727
+  },
+  "corpus_covered_submissions_pct": {
+    "decimals": 2,
+    "den": 284486,
+    "kind": "ratio",
+    "num": 167727
+  },
+  "corpus_discipline_resolved_pct": {
+    "decimals": 1,
+    "den": 166761,
+    "kind": "ratio",
+    "num": 166761
+  },
+  "corpus_excluded_submissions": {
+    "kind": "int",
+    "value": 116759
+  },
+  "corpus_excluded_submissions_pct": {
+    "decimals": 1,
+    "den": 284486,
+    "kind": "ratio",
+    "num": 116759
+  },
+  "corpus_multi_bib_files_n": {
+    "kind": "int",
+    "value": 37763
+  },
+  "corpus_multi_bib_files_pct": {
+    "decimals": 1,
+    "den": 189637,
+    "kind": "ratio",
+    "num": 37763
+  },
+  "corpus_multi_bib_pct": {
+    "decimals": 2,
+    "den": 167727,
+    "kind": "ratio",
+    "num": 15853
+  },
+  "corpus_multi_bib_submissions": {
+    "kind": "int",
+    "value": 15853
+  },
+  "corpus_total_2025_submissions": {
+    "kind": "int",
+    "value": 284486
+  }
+}

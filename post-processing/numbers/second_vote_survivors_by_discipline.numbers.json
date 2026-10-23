@@ -1,0 +1,98 @@
+{
+  "survivorgroups_cs_n_citations": {
+    "kind": "int",
+    "value": 4
+  },
+  "survivorgroups_cs_n_lose_strict_flag": {
+    "kind": "int",
+    "value": 4
+  },
+  "survivorgroups_cs_n_submissions": {
+    "kind": "int",
+    "value": 96771
+  },
+  "survivorgroups_cs_n_survivor_submissions": {
+    "kind": "int",
+    "value": 4
+  },
+  "survivorgroups_cs_strict_n_with": {
+    "kind": "int",
+    "value": 1376
+  },
+  "survivorgroups_cs_strict_n_without": {
+    "kind": "int",
+    "value": 1372
+  },
+  "survivorgroups_math_n_citations": {
+    "kind": "int",
+    "value": 1
+  },
+  "survivorgroups_math_n_lose_strict_flag": {
+    "kind": "int",
+    "value": 1
+  },
+  "survivorgroups_math_n_submissions": {
+    "kind": "int",
+    "value": 12023
+  },
+  "survivorgroups_math_n_survivor_submissions": {
+    "kind": "int",
+    "value": 1
+  },
+  "survivorgroups_math_strict_n_with": {
+    "kind": "int",
+    "value": 46
+  },
+  "survivorgroups_math_strict_n_without": {
+    "kind": "int",
+    "value": 45
+  },
+  "survivorgroups_other_n_citations": {
+    "kind": "int",
+    "value": 3
+  },
+  "survivorgroups_other_n_lose_strict_flag": {
+    "kind": "int",
+    "value": 3
+  },
+  "survivorgroups_other_n_submissions": {
+    "kind": "int",
+    "value": 16812
+  },
+  "survivorgroups_other_n_survivor_submissions": {
+    "kind": "int",
+    "value": 3
+  },
+  "survivorgroups_other_strict_n_with": {
+    "kind": "int",
+    "value": 199
+  },
+  "survivorgroups_other_strict_n_without": {
+    "kind": "int",
+    "value": 196
+  },
+  "survivorgroups_physics_n_citations": {
+    "kind": "int",
+    "value": 0
+  },
+  "survivorgroups_physics_n_lose_strict_flag": {
+    "kind": "int",
+    "value": 0
+  },
+  "survivorgroups_physics_n_submissions": {
+    "kind": "int",
+    "value": 41155
+  },
+  "survivorgroups_physics_n_survivor_submissions": {
+    "kind": "int",
+    "value": 0
+  },
+  "survivorgroups_physics_strict_n_with": {
+    "kind": "int",
+    "value": 296
+  },
+  "survivorgroups_physics_strict_n_without": {
+    "kind": "int",
+    "value": 296
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "predatory-citations-arxiv-2025: Reproducibility scripts for 'Measuring Citations to Predatory Journals at Scale: Lessons from arXiv's 2025 BibTeX Files'",
+  "upload_type": "software",
+  "description": "Scripts that extract the .bib files from arXiv source packages and compute the numbers of the paper 'Measuring Citations to Predatory Journals at Scale: Lessons from arXiv's 2025 BibTeX Files' from the assessment results of the tool Aletheia-Probe. Code only: no data and no per-citation results are included. Research-grade code, not a maintained tool.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Florath, Andreas",
+      "affiliation": "Deutsche Telekom AG, Bonn, Germany",
+      "orcid": "0009-0001-6471-7372"
+    }
+  ],
+  "keywords": ["predatory journals", "citation analysis", "bibliometrics", "arXiv", "reproducibility"],
+  "related_identifiers": [
+    {
+      "relation": "requires",
+      "identifier": "https://github.com/sustainet-guardian/aletheia-probe",
+      "scheme": "url"
+    }
+  ]
+}

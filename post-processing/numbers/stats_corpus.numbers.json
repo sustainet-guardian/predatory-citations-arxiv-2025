@@ -1,0 +1,80 @@
+{
+  "corpus_assessed_files": {
+    "kind": "int",
+    "value": 189637
+  },
+  "corpus_empty_files": {
+    "kind": "int",
+    "value": 283
+  },
+  "corpus_macroonly_files": {
+    "kind": "int",
+    "value": 3577
+  },
+  "corpus_max_entries_per_submission": {
+    "kind": "int",
+    "value": 113114
+  },
+  "corpus_mega_raw_entries": {
+    "kind": "int",
+    "value": 95091424
+  },
+  "corpus_mega_raw_entries_pct": {
+    "decimals": 2,
+    "den": 113262987,
+    "kind": "ratio",
+    "num": 95091424
+  },
+  "corpus_nonbibliography_files": {
+    "kind": "int",
+    "value": 3860
+  },
+  "corpus_nosidecar_files": {
+    "kind": "int",
+    "value": 10975
+  },
+  "corpus_nosidecar_isolated_files_n": {
+    "kind": "int",
+    "value": 1381
+  },
+  "corpus_nosidecar_isolated_pct": {
+    "decimals": 1,
+    "den": 10975,
+    "kind": "ratio",
+    "num": 1381
+  },
+  "corpus_nosidecar_sibling_files_n": {
+    "kind": "int",
+    "value": 9594
+  },
+  "corpus_nosidecar_sibling_pct": {
+    "decimals": 1,
+    "den": 10975,
+    "kind": "ratio",
+    "num": 9594
+  },
+  "corpus_sidecar_files": {
+    "kind": "int",
+    "value": 178662
+  },
+  "corpus_total_bib_files": {
+    "kind": "int",
+    "value": 193497
+  },
+  "corpusstate_assessed_n": {
+    "kind": "int",
+    "value": 6547551
+  },
+  "corpusstate_no_venue_n": {
+    "kind": "int",
+    "value": 129020
+  },
+  "corpusstate_preprint_n": {
+    "kind": "int",
+    "value": 1337937
+  },
+  "corpusstate_unsupported_type_n": {
+    "kind": "int",
+    "value": 706264
+  }
+}

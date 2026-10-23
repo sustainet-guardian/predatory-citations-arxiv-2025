@@ -1,0 +1,76 @@
+{
+  "retraction_count_fallback_n_citations": {
+    "kind": "int",
+    "value": 205
+  },
+  "retraction_count_fallback_n_venues": {
+    "kind": "int",
+    "value": 42
+  },
+  "retraction_min_recent_publications": {
+    "kind": "int",
+    "value": 10
+  },
+  "retraction_moderate_or_higher_count_based_n": {
+    "kind": "int",
+    "value": 205
+  },
+  "retraction_moderate_or_higher_n": {
+    "kind": "int",
+    "value": 12737
+  },
+  "retraction_moderate_or_higher_pct": {
+    "decimals": 3,
+    "den": 8720772,
+    "kind": "ratio",
+    "num": 12737
+  },
+  "retraction_moderate_or_higher_rate_based_n": {
+    "kind": "int",
+    "value": 12532
+  },
+  "retraction_moderate_or_higher_rate_based_pct": {
+    "decimals": 1,
+    "den": 12737,
+    "kind": "ratio",
+    "num": 12532
+  },
+  "retraction_naive_ever_retracted_pct": {
+    "decimals": 2,
+    "den": 8720772,
+    "kind": "ratio",
+    "num": 1147783
+  },
+  "retraction_note_tier_pct_of_any_history": {
+    "decimals": 1,
+    "den": 1147783,
+    "kind": "ratio",
+    "num": 1028773
+  },
+  "retraction_originally_flagged_n_citations": {
+    "kind": "int",
+    "value": 14559
+  },
+  "retraction_rate_based_n_citations": {
+    "kind": "int",
+    "value": 14354
+  },
+  "retraction_tiny_denominator_example_n_citations": {
+    "kind": "int",
+    "value": 1815
+  },
+  "retraction_tiny_denominator_example_n_publications": {
+    "kind": "int",
+    "value": 21526
+  },
+  "retraction_tiny_denominator_example_rate_pct": {
+    "decimals": 4,
+    "den": 21526,
+    "kind": "ratio",
+    "num": 1
+  },
+  "retraction_tiny_denominator_n_venues": {
+    "kind": "int",
+    "value": 5
+  }
+}

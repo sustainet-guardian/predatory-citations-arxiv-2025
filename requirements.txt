@@ -1,0 +1,7 @@
+# Third-party packages used by the scripts (the rest is the Python standard library).
+# Python 3.11 or newer.
+pybtex
+openpyxl
+# The assessment tool (build_entry_table.py imports it; it also builds the cache the analyses read).
+# The study used commit 9b5869b (package 0.9.0).
+aletheia-probe @ git+https://github.com/sustainet-guardian/aletheia-probe@9b5869b

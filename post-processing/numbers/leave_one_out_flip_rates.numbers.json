@@ -1,0 +1,34 @@
+{
+  "looexhaustive_crossref_analyzer_flip_pct": {
+    "decimals": 1,
+    "den": 417452,
+    "kind": "ratio",
+    "num": 498
+  },
+  "looexhaustive_dblp_venues_flip_pct": {
+    "decimals": 1,
+    "den": 32406,
+    "kind": "ratio",
+    "num": 10914
+  },
+  "looexhaustive_dblp_venues_n_considered": {
+    "kind": "int",
+    "value": 32406
+  },
+  "looexhaustive_openalex_analyzer_flip_pct": {
+    "decimals": 1,
+    "den": 659298,
+    "kind": "ratio",
+    "num": 36894
+  },
+  "looexhaustive_opencitations_analyzer_flip_pct": {
+    "decimals": 1,
+    "den": 246480,
+    "kind": "ratio",
+    "num": 900
+  },
+  "looexhaustive_population_size": {
+    "kind": "int",
+    "value": 659588
+  }
+}

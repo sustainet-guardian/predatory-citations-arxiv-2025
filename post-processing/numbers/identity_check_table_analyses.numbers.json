@@ -1,0 +1,226 @@
+{
+  "coverage_unknown_of_eligible_pct": {
+    "decimals": 1,
+    "den": 6547551,
+    "kind": "ratio",
+    "num": 2269671
+  },
+  "doi_legitimate_pct": {
+    "decimals": 1,
+    "den": 4175470,
+    "kind": "ratio",
+    "num": 1290420
+  },
+  "doi_strict_predatory_pct": {
+    "decimals": 1,
+    "den": 2197,
+    "kind": "ratio",
+    "num": 509
+  },
+  "eligible_population": {
+    "kind": "int",
+    "value": 6547551
+  },
+  "entrytype_article_broad_pct": {
+    "decimals": 3,
+    "den": 5756888,
+    "kind": "ratio",
+    "num": 5776
+  },
+  "entrytype_inproceedings_broad_pct": {
+    "decimals": 3,
+    "den": 1940579,
+    "kind": "ratio",
+    "num": 135
+  },
+  "intensity_legitimate_mean": {
+    "decimals": 2,
+    "kind": "float",
+    "value": 1.945
+  },
+  "intensity_predatory_mean": {
+    "decimals": 2,
+    "kind": "float",
+    "value": 1.463
+  },
+  "primary_strict_rate_pct": {
+    "decimals": 3,
+    "den": 4277878,
+    "kind": "ratio",
+    "num": 2197
+  },
+  "reliability_algerian_ministry_co_flag_pct": {
+    "decimals": 1,
+    "den": 4125,
+    "kind": "ratio",
+    "num": 1551
+  },
+  "reliability_algerian_ministry_flags": {
+    "kind": "int",
+    "value": 4125
+  },
+  "reliability_algerian_ministry_leave_focal_out_pct": {
+    "decimals": 1,
+    "den": 4125,
+    "kind": "ratio",
+    "num": 818
+  },
+  "reliability_bealls_co_flag_pct": {
+    "decimals": 1,
+    "den": 2320,
+    "kind": "ratio",
+    "num": 2304
+  },
+  "reliability_bealls_flags": {
+    "kind": "int",
+    "value": 2320
+  },
+  "reliability_bealls_leave_focal_out_pct": {
+    "decimals": 1,
+    "den": 2320,
+    "kind": "ratio",
+    "num": 1476
+  },
+  "reliability_kscien_predatory_conferences_co_flag_pct": {
+    "decimals": 1,
+    "den": 53,
+    "kind": "ratio",
+    "num": 50
+  },
+  "reliability_kscien_predatory_conferences_flags": {
+    "kind": "int",
+    "value": 53
+  },
+  "reliability_kscien_predatory_conferences_leave_focal_out_pct": {
+    "decimals": 1,
+    "den": 53,
+    "kind": "ratio",
+    "num": 0
+  },
+  "reliability_kscien_publishers_co_flag_pct": {
+    "decimals": 1,
+    "den": 102,
+    "kind": "ratio",
+    "num": 102
+  },
+  "reliability_kscien_publishers_flags": {
+    "kind": "int",
+    "value": 102
+  },
+  "reliability_kscien_publishers_leave_focal_out_pct": {
+    "decimals": 1,
+    "den": 102,
+    "kind": "ratio",
+    "num": 100
+  },
+  "reliability_kscien_standalone_journals_co_flag_pct": {
+    "decimals": 1,
+    "den": 2202,
+    "kind": "ratio",
+    "num": 2194
+  },
+  "reliability_kscien_standalone_journals_flags": {
+    "kind": "int",
+    "value": 2202
+  },
+  "reliability_kscien_standalone_journals_leave_focal_out_pct": {
+    "decimals": 1,
+    "den": 2202,
+    "kind": "ratio",
+    "num": 1363
+  },
+  "reliability_predatoryjournals_co_flag_pct": {
+    "decimals": 1,
+    "den": 121,
+    "kind": "ratio",
+    "num": 117
+  },
+  "reliability_predatoryjournals_flags": {
+    "kind": "int",
+    "value": 121
+  },
+  "reliability_predatoryjournals_leave_focal_out_pct": {
+    "decimals": 1,
+    "den": 121,
+    "kind": "ratio",
+    "num": 114
+  },
+  "reliability_ugc_care_cloned_co_flag_pct": {
+    "decimals": 1,
+    "den": 7,
+    "kind": "ratio",
+    "num": 7
+  },
+  "reliability_ugc_care_cloned_flags": {
+    "kind": "int",
+    "value": 7
+  },
+  "reliability_ugc_care_cloned_group2_co_flag_pct": {
+    "decimals": 1,
+    "den": 229,
+    "kind": "ratio",
+    "num": 216
+  },
+  "reliability_ugc_care_cloned_group2_flags": {
+    "kind": "int",
+    "value": 229
+  },
+  "reliability_ugc_care_cloned_group2_leave_focal_out_pct": {
+    "decimals": 1,
+    "den": 229,
+    "kind": "ratio",
+    "num": 5
+  },
+  "reliability_ugc_care_cloned_leave_focal_out_pct": {
+    "decimals": 1,
+    "den": 7,
+    "kind": "ratio",
+    "num": 0
+  },
+  "reliability_ugc_care_delisted_group2_co_flag_pct": {
+    "decimals": 1,
+    "den": 30,
+    "kind": "ratio",
+    "num": 18
+  },
+  "reliability_ugc_care_delisted_group2_flags": {
+    "kind": "int",
+    "value": 30
+  },
+  "reliability_ugc_care_delisted_group2_leave_focal_out_pct": {
+    "decimals": 1,
+    "den": 30,
+    "kind": "ratio",
+    "num": 0
+  },
+  "resolved_eligible_population_new": {
+    "kind": "int",
+    "value": 4277878
+  },
+  "secondary_eligible_rate_pct": {
+    "decimals": 3,
+    "den": 6547551,
+    "kind": "ratio",
+    "num": 2197
+  },
+  "venuetype_conference_broad_pct": {
+    "decimals": 3,
+    "den": 1721718,
+    "kind": "ratio",
+    "num": 113
+  },
+  "venuetype_conference_n": {
+    "kind": "int",
+    "value": 1721718
+  },
+  "venuetype_journal_broad_pct": {
+    "decimals": 3,
+    "den": 4637801,
+    "kind": "ratio",
+    "num": 5776
+  },
+  "venuetype_journal_n": {
+    "kind": "int",
+    "value": 4637801
+  }
+}

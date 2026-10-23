@@ -1,0 +1,40 @@
+{
+  "pairwise_cr_oc_both_found": {
+    "kind": "int",
+    "value": 4193470
+  },
+  "pairwise_cr_oc_rate": {
+    "decimals": 1,
+    "den": 4193470,
+    "kind": "ratio",
+    "num": 3647989
+  },
+  "pairwise_n_bloated_files": {
+    "kind": "int",
+    "value": 3843
+  },
+  "pairwise_n_normal_files": {
+    "kind": "int",
+    "value": 185794
+  },
+  "pairwise_oa_cr_both_found": {
+    "kind": "int",
+    "value": 4903314
+  },
+  "pairwise_oa_cr_rate": {
+    "decimals": 1,
+    "den": 4903314,
+    "kind": "ratio",
+    "num": 3986734
+  },
+  "pairwise_oa_oc_both_found": {
+    "kind": "int",
+    "value": 4152551
+  },
+  "pairwise_oa_oc_rate": {
+    "decimals": 1,
+    "den": 4152551,
+    "kind": "ratio",
+    "num": 4126108
+  }
+}

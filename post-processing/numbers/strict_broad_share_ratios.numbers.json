@@ -1,0 +1,30 @@
+{
+  "algerian_broad_share_pct": {
+    "decimals": 1,
+    "den": 5911,
+    "kind": "ratio",
+    "num": 4125
+  },
+  "multibib_broad_pct_of_population": {
+    "decimals": 2,
+    "den": 5911,
+    "kind": "ratio",
+    "num": 110
+  },
+  "multibib_strict_pct_of_population": {
+    "decimals": 2,
+    "den": 2197,
+    "kind": "ratio",
+    "num": 33
+  },
+  "n_unverified_of_original": {
+    "kind": "int",
+    "value": 1310
+  },
+  "pct_unverified_of_original": {
+    "decimals": 1,
+    "den": 2723,
+    "kind": "ratio",
+    "num": 1310
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "l1o69_n_flipped_total": {
+    "kind": "int",
+    "value": 77
+  },
+  "l1o69_n_independent": {
+    "kind": "int",
+    "value": 69
+  },
+  "l1o69_n_razor_thin_tie": {
+    "kind": "int",
+    "value": 66
+  },
+  "l1o69_n_sole_surviving_vote": {
+    "kind": "int",
+    "value": 3
+  },
+  "l1o69_n_strict_basis": {
+    "kind": "int",
+    "value": 2197
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "auditpop_extract_n_confirmed_correct": {
+    "kind": "int",
+    "value": 11
+  },
+  "auditpop_extract_n_mismatch": {
+    "kind": "int",
+    "value": 5
+  },
+  "auditpop_extract_n_undecidable": {
+    "kind": "int",
+    "value": 4
+  },
+  "auditpop_extract_n_with_issn": {
+    "kind": "int",
+    "value": 20
+  },
+  "auditpop_mixed_n_confirmed_correct": {
+    "kind": "int",
+    "value": 22
+  },
+  "auditpop_mixed_n_mismatch": {
+    "kind": "int",
+    "value": 19
+  },
+  "auditpop_mixed_n_undecidable": {
+    "kind": "int",
+    "value": 2
+  },
+  "auditpop_mixed_n_with_issn": {
+    "kind": "int",
+    "value": 43
+  },
+  "auditpop_n_confirmed_correct": {
+    "kind": "int",
+    "value": 817
+  },
+  "auditpop_n_mismatch": {
+    "kind": "int",
+    "value": 534
+  },
+  "auditpop_n_original_strict": {
+    "kind": "int",
+    "value": 2723
+  },
+  "auditpop_n_structurally_undecidable": {
+    "kind": "int",
+    "value": 6
+  },
+  "auditpop_n_with_citing_issn": {
+    "kind": "int",
+    "value": 1357
+  },
+  "auditpop_n_without_citing_issn": {
+    "kind": "int",
+    "value": 1366
+  },
+  "auditpop_no_extract_n_confirmed_correct": {
+    "kind": "int",
+    "value": 784
+  },
+  "auditpop_no_extract_n_mismatch": {
+    "kind": "int",
+    "value": 510
+  },
+  "auditpop_no_extract_n_undecidable": {
+    "kind": "int",
+    "value": 0
+  },
+  "auditpop_no_extract_n_with_issn": {
+    "kind": "int",
+    "value": 1294
+  }
+}

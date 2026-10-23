@@ -1,0 +1,20 @@
+{
+  "reprod_flip_pct": {
+    "decimals": 2,
+    "den": 10564,
+    "kind": "ratio",
+    "num": 69
+  },
+  "reprod_n_entries_joined": {
+    "kind": "int",
+    "value": 10564
+  },
+  "reprod_n_files": {
+    "kind": "int",
+    "value": 168
+  },
+  "reprod_n_flips": {
+    "kind": "int",
+    "value": 69
+  }
+}

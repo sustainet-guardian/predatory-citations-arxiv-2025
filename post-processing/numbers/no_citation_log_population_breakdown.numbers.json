@@ -1,0 +1,110 @@
+{
+  "nosidecarcorr_a_broad_n": {
+    "kind": "int",
+    "value": 5911
+  },
+  "nosidecarcorr_a_broad_pct": {
+    "decimals": 3,
+    "den": 8720772,
+    "kind": "ratio",
+    "num": 5911
+  },
+  "nosidecarcorr_a_n_total": {
+    "kind": "int",
+    "value": 8720772
+  },
+  "nosidecarcorr_a_strict_n": {
+    "kind": "int",
+    "value": 2197
+  },
+  "nosidecarcorr_a_strict_pct": {
+    "decimals": 3,
+    "den": 8720772,
+    "kind": "ratio",
+    "num": 2197
+  },
+  "nosidecarcorr_b_broad_dropped_n": {
+    "kind": "int",
+    "value": 18
+  },
+  "nosidecarcorr_b_broad_n": {
+    "kind": "int",
+    "value": 40
+  },
+  "nosidecarcorr_b_broad_pct": {
+    "decimals": 3,
+    "den": 291667,
+    "kind": "ratio",
+    "num": 40
+  },
+  "nosidecarcorr_b_broad_raw_n": {
+    "kind": "int",
+    "value": 58
+  },
+  "nosidecarcorr_b_confirmed_correct_n": {
+    "kind": "int",
+    "value": 4
+  },
+  "nosidecarcorr_b_issn_mismatch_n": {
+    "kind": "int",
+    "value": 18
+  },
+  "nosidecarcorr_b_n_total": {
+    "kind": "int",
+    "value": 291667
+  },
+  "nosidecarcorr_b_second_vote_survivor_n": {
+    "kind": "int",
+    "value": 0
+  },
+  "nosidecarcorr_b_strict_n": {
+    "kind": "int",
+    "value": 21
+  },
+  "nosidecarcorr_b_strict_pct": {
+    "decimals": 3,
+    "den": 291667,
+    "kind": "ratio",
+    "num": 21
+  },
+  "nosidecarcorr_b_strict_raw_n": {
+    "kind": "int",
+    "value": 39
+  },
+  "nosidecarcorr_b_strict_with_issn_n": {
+    "kind": "int",
+    "value": 22
+  },
+  "nosidecarcorr_b_strict_without_issn_n": {
+    "kind": "int",
+    "value": 17
+  },
+  "nosidecarcorr_b_structurally_undecidable_n": {
+    "kind": "int",
+    "value": 0
+  },
+  "nosidecarcorr_c_broad_n": {
+    "kind": "int",
+    "value": 5951
+  },
+  "nosidecarcorr_c_broad_pct": {
+    "decimals": 3,
+    "den": 9012439,
+    "kind": "ratio",
+    "num": 5951
+  },
+  "nosidecarcorr_c_n_total": {
+    "kind": "int",
+    "value": 9012439
+  },
+  "nosidecarcorr_c_strict_n": {
+    "kind": "int",
+    "value": 2218
+  },
+  "nosidecarcorr_c_strict_pct": {
+    "decimals": 3,
+    "den": 9012439,
+    "kind": "ratio",
+    "num": 2218
+  }
+}

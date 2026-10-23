@@ -1,0 +1,14 @@
+{
+  "discsubcount_n_broad": {
+    "kind": "int",
+    "value": 4697
+  },
+  "discsubcount_n_strict": {
+    "kind": "int",
+    "value": 1917
+  },
+  "discsubcount_n_total": {
+    "kind": "int",
+    "value": 166761
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "backends_split_n_broad_total": {
+    "kind": "int",
+    "value": 5911
+  },
+  "backends_split_pct_exactly_one": {
+    "decimals": 1,
+    "den": 5911,
+    "kind": "ratio",
+    "num": 3558
+  },
+  "math_broad_multiple_corrected": {
+    "decimals": 1,
+    "kind": "float",
+    "value": 4.2
+  },
+  "math_n_broad_corrected": {
+    "kind": "int",
+    "value": 1204
+  }
+}

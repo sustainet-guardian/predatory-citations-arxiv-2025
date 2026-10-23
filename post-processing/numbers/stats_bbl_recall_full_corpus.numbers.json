@@ -1,0 +1,46 @@
+{
+  "bblaccuracy_n_files_checked": {
+    "kind": "int",
+    "value": 178662
+  },
+  "bblaccuracy_precision_den": {
+    "kind": "int",
+    "value": 8736825
+  },
+  "bblaccuracy_precision_num": {
+    "kind": "int",
+    "value": 8482257
+  },
+  "bblaccuracy_precision_pct": {
+    "decimals": 3,
+    "den": 8736825,
+    "kind": "ratio",
+    "num": 8482257
+  },
+  "bblaccuracy_precision_pct_short": {
+    "decimals": 1,
+    "den": 8736825,
+    "kind": "ratio",
+    "num": 8482257
+  },
+  "bblaccuracy_recall_den": {
+    "kind": "int",
+    "value": 8703565
+  },
+  "bblaccuracy_recall_num": {
+    "kind": "int",
+    "value": 8482257
+  },
+  "bblaccuracy_recall_pct": {
+    "decimals": 3,
+    "den": 8703565,
+    "kind": "ratio",
+    "num": 8482257
+  },
+  "bblaccuracy_recall_pct_short": {
+    "decimals": 1,
+    "den": 8703565,
+    "kind": "ratio",
+    "num": 8482257
+  }
+}

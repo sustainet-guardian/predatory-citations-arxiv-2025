@@ -1,0 +1,18 @@
+{
+  "doaj_reinclusion_legitresolving_pct_still_removed": {
+    "decimals": 1,
+    "den": 2748,
+    "kind": "ratio",
+    "num": 2187
+  },
+  "doaj_reinclusion_n_checkable": {
+    "kind": "int",
+    "value": 4264
+  },
+  "doaj_reinclusion_pct_reinstated": {
+    "decimals": 2,
+    "den": 4264,
+    "kind": "ratio",
+    "num": 693
+  }
+}

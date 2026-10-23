@@ -1,0 +1,22 @@
+{
+  "rwclone_different_issn_n": {
+    "kind": "int",
+    "value": 6
+  },
+  "rwclone_exact_string_match_n": {
+    "kind": "int",
+    "value": 370
+  },
+  "rwclone_hijacked_issn_missing_n": {
+    "kind": "int",
+    "value": 14
+  },
+  "rwclone_n_total": {
+    "kind": "int",
+    "value": 455
+  },
+  "rwclone_overlapping_normalized_match_n": {
+    "kind": "int",
+    "value": 65
+  }
+}

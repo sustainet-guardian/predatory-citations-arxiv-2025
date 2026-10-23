@@ -1,0 +1,72 @@
+{
+  "audit_checkable_with_issn": {
+    "kind": "int",
+    "value": 1357
+  },
+  "audit_confirmed_correct": {
+    "kind": "int",
+    "value": 817
+  },
+  "audit_mismatch": {
+    "kind": "int",
+    "value": 534
+  },
+  "audit_mismatch_rate_of_checkable": {
+    "decimals": 1,
+    "den": 1357,
+    "kind": "ratio",
+    "num": 534
+  },
+  "audit_no_issn": {
+    "kind": "int",
+    "value": 1366
+  },
+  "audit_no_issn_pct_of_raw": {
+    "decimals": 1,
+    "den": 2723,
+    "kind": "ratio",
+    "num": 1366
+  },
+  "audit_original_strict_total": {
+    "kind": "int",
+    "value": 2723
+  },
+  "audit_structurally_undecidable": {
+    "kind": "int",
+    "value": 6
+  },
+  "broad_count": {
+    "kind": "int",
+    "value": 5911
+  },
+  "strict_count": {
+    "kind": "int",
+    "value": 2197
+  },
+  "strict_identity_unverified": {
+    "kind": "int",
+    "value": 784
+  },
+  "strict_identity_verified": {
+    "kind": "int",
+    "value": 33
+  },
+  "strict_n_second_vote_survivors": {
+    "kind": "int",
+    "value": 8
+  },
+  "strict_no_issn": {
+    "kind": "int",
+    "value": 1366
+  },
+  "strict_no_issn_pct": {
+    "decimals": 1,
+    "den": 2197,
+    "kind": "ratio",
+    "num": 1366
+  },
+  "strict_undecided": {
+    "kind": "int",
+    "value": 14
+  }
+}

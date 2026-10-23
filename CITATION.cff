@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these scripts, please cite them and the paper."
+title: "predatory-citations-arxiv-2025: Reproducibility scripts for 'Measuring Citations to Predatory Journals at Scale: Lessons from arXiv's 2025 BibTeX Files'"
+type: software
+version: "1.0.0"
+date-released: "2026-10-23"
+license: MIT
+repository-code: "https://github.com/sustainet-guardian/predatory-citations-arxiv-2025"
+authors:
+  - family-names: Florath
+    given-names: Andreas
+    orcid: "https://orcid.org/0009-0001-6471-7372"
+    affiliation: "Deutsche Telekom AG, Bonn, Germany"
+keywords:
+  - predatory journals
+  - citation analysis
+  - bibliometrics
+  - arXiv
+  - reproducibility

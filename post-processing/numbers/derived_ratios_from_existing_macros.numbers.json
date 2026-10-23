@@ -1,0 +1,317 @@
+{
+  "derived_addone_combined_broad_total": {
+    "kind": "int",
+    "value": 17076
+  },
+  "derived_addone_combined_strict_total": {
+    "kind": "int",
+    "value": 6478
+  },
+  "derived_addone_doaj_broad_total": {
+    "kind": "int",
+    "value": 15663
+  },
+  "derived_addone_doaj_strict_total": {
+    "kind": "int",
+    "value": 6056
+  },
+  "derived_addone_rw_broad_total": {
+    "kind": "int",
+    "value": 7353
+  },
+  "derived_addone_rw_strict_total": {
+    "kind": "int",
+    "value": 2555
+  },
+  "derived_algerian_exclusion_strict_loss_n": {
+    "kind": "int",
+    "value": 363
+  },
+  "derived_algerian_exclusion_strict_multiple": {
+    "decimals": 2,
+    "kind": "float",
+    "value": 0.8347746927628584
+  },
+  "derived_algerian_ministry_not_retained_pct": {
+    "decimals": 1,
+    "den": 4125,
+    "kind": "ratio",
+    "num": 3307
+  },
+  "derived_assessed_pct_display": {
+    "decimals": 1,
+    "den": 8720772,
+    "kind": "ratio",
+    "num": 6547551
+  },
+  "derived_assessed_pct_of_bib_files": {
+    "decimals": 2,
+    "den": 193497,
+    "kind": "ratio",
+    "num": 189637
+  },
+  "derived_audit_mismatch_minus_survivors": {
+    "kind": "int",
+    "value": 526
+  },
+  "derived_audit_mismatch_pct_of_original": {
+    "decimals": 1,
+    "den": 2723,
+    "kind": "ratio",
+    "num": 534
+  },
+  "derived_bloated_pct_of_pairwise_total": {
+    "decimals": 1,
+    "den": 189637,
+    "kind": "ratio",
+    "num": 3843
+  },
+  "derived_concern_pct_of_papers": {
+    "decimals": 2,
+    "den": 166761,
+    "kind": "ratio",
+    "num": 13847
+  },
+  "derived_confirmed_cited_pct_of_candidate": {
+    "decimals": 2,
+    "den": 27583307,
+    "kind": "ratio",
+    "num": 8720772
+  },
+  "derived_correction_size_pct": {
+    "decimals": 1,
+    "den": 2723,
+    "kind": "ratio",
+    "num": 526
+  },
+  "derived_coverage_cs_pct": {
+    "decimals": 1,
+    "den": 128843,
+    "kind": "ratio",
+    "num": 97086
+  },
+  "derived_coverage_math_pct": {
+    "decimals": 1,
+    "den": 42665,
+    "kind": "ratio",
+    "num": 12104
+  },
+  "derived_coverage_physics_pct": {
+    "decimals": 1,
+    "den": 84389,
+    "kind": "ratio",
+    "num": 41617
+  },
+  "derived_doi_gap_points": {
+    "decimals": 1,
+    "kind": "float",
+    "value": 7.736828067528748
+  },
+  "derived_empty_pct_of_bib_files": {
+    "decimals": 2,
+    "den": 193497,
+    "kind": "ratio",
+    "num": 283
+  },
+  "derived_excluded_pct_of_candidate": {
+    "decimals": 1,
+    "den": 27583307,
+    "kind": "ratio",
+    "num": 18862535
+  },
+  "derived_excluded_pct_of_candidate_only": {
+    "decimals": 2,
+    "den": 27583307,
+    "kind": "ratio",
+    "num": 18570868
+  },
+  "derived_excluded_plus_unverified_n": {
+    "kind": "int",
+    "value": 18862535
+  },
+  "derived_headline_rows_sum_pct": {
+    "decimals": 1,
+    "den": 8720772,
+    "kind": "ratio",
+    "num": 8720772
+  },
+  "derived_legit_hhi_displayed_reciprocal": {
+    "kind": "int",
+    "value": 125
+  },
+  "derived_legit_plus_unknown_distinct_venues": {
+    "kind": "int",
+    "value": 231902
+  },
+  "derived_legit_plus_unknown_strict_multiple": {
+    "kind": "int",
+    "value": 2934
+  },
+  "derived_legit_strict_multiple": {
+    "kind": "int",
+    "value": 1901
+  },
+  "derived_legit_unknown_venues_per_strict_venue": {
+    "kind": "int",
+    "value": 676
+  },
+  "derived_legit_venues_per_strict_venue": {
+    "kind": "int",
+    "value": 98
+  },
+  "derived_macroonly_pct_of_bib_files": {
+    "decimals": 2,
+    "den": 193497,
+    "kind": "ratio",
+    "num": 3577
+  },
+  "derived_math_submission_broad_multiple": {
+    "decimals": 1,
+    "kind": "float",
+    "value": 2.0021231040902356
+  },
+  "derived_no_venue_pct_display": {
+    "decimals": 1,
+    "den": 8720772,
+    "kind": "ratio",
+    "num": 129020
+  },
+  "derived_nonbibliography_pct_of_bib_files": {
+    "decimals": 2,
+    "den": 193497,
+    "kind": "ratio",
+    "num": 3860
+  },
+  "derived_nosidecar_pct_display": {
+    "decimals": 2,
+    "den": 189637,
+    "kind": "ratio",
+    "num": 10975
+  },
+  "derived_precision_sample_at_printed_rate_n": {
+    "kind": "int",
+    "value": 49000
+  },
+  "derived_preprint_pct_display": {
+    "decimals": 1,
+    "den": 8720772,
+    "kind": "ratio",
+    "num": 1337937
+  },
+  "derived_primary_strict_rate_printed": {
+    "decimals": 5,
+    "kind": "float",
+    "value": 0.00051
+  },
+  "derived_rule_of_three_at_printed_rate_n": {
+    "kind": "int",
+    "value": 5880
+  },
+  "derived_scopus_exclusion_strict_multiple": {
+    "decimals": 2,
+    "kind": "float",
+    "value": 1.2198452435138825
+  },
+  "derived_sidecar_pct_of_assessed_files": {
+    "decimals": 2,
+    "den": 189637,
+    "kind": "ratio",
+    "num": 178662
+  },
+  "derived_sisf_issnl_strict_max_movement_pct": {
+    "decimals": 1,
+    "den": 2197,
+    "kind": "ratio",
+    "num": 17
+  },
+  "derived_strictvote_ge2_resolved_corrected_multiple": {
+    "decimals": 2,
+    "kind": "float",
+    "value": 6.097405553026855
+  },
+  "derived_strictvote_votes_ge_legit_resolved_corrected_multiple": {
+    "decimals": 2,
+    "kind": "float",
+    "value": 71.35502958579882
+  },
+  "derived_submissions_without_confirmed_cited_n": {
+    "kind": "int",
+    "value": 966
+  },
+  "derived_unknown_strict_multiple": {
+    "kind": "int",
+    "value": 1033
+  },
+  "derived_unsupported_type_pct_display": {
+    "decimals": 1,
+    "den": 8720772,
+    "kind": "ratio",
+    "num": 706264
+  },
+  "derived_unverified_pct_of_candidate": {
+    "decimals": 2,
+    "den": 27583307,
+    "kind": "ratio",
+    "num": 291667
+  },
+  "derived_validation_fn_hundredth_pct_multiple": {
+    "decimals": 1,
+    "kind": "float",
+    "value": 2.9318181818181817
+  },
+  "derived_validation_fn_hundredth_pct_n": {
+    "kind": "int",
+    "value": 645
+  },
+  "derived_validation_fn_one_pct_multiple": {
+    "decimals": 1,
+    "kind": "float",
+    "value": 292.9818181818182
+  },
+  "derived_validation_fn_one_pct_n": {
+    "kind": "int",
+    "value": 64456
+  },
+  "derived_validation_fn_tenth_pct_multiple": {
+    "decimals": 1,
+    "kind": "float",
+    "value": 29.3
+  },
+  "derived_validation_fn_tenth_pct_n": {
+    "kind": "int",
+    "value": 6446
+  },
+  "derived_validation_fn_thousandth_pct_multiple": {
+    "decimals": 1,
+    "kind": "float",
+    "value": 0.2909090909090909
+  },
+  "derived_validation_fn_thousandth_pct_n": {
+    "kind": "int",
+    "value": 64
+  },
+  "derived_validation_fp_ten_pct_multiple": {
+    "decimals": 1,
+    "kind": "float",
+    "value": 1.0
+  },
+  "derived_validation_fp_ten_pct_n": {
+    "kind": "int",
+    "value": 220
+  },
+  "derived_venuetype_conference_millions": {
+    "decimals": 2,
+    "kind": "float",
+    "value": 1.721718
+  },
+  "derived_venuetype_journal_conference_broad_multiple": {
+    "decimals": 1,
+    "kind": "float",
+    "value": 18.975736939168453
+  },
+  "derived_venuetype_journal_millions": {
+    "decimals": 2,
+    "kind": "float",
+    "value": 4.637801
+  }
+}

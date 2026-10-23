@@ -1,0 +1,50 @@
+{
+  "bulk_acl_adverse_retraction_signal_venues": {
+    "kind": "int",
+    "value": 0
+  },
+  "bulk_acl_distinct_venues": {
+    "kind": "int",
+    "value": 2918
+  },
+  "bulk_acl_flagged_suspicious_venues": {
+    "kind": "int",
+    "value": 19
+  },
+  "bulk_acl_flagged_venues": {
+    "kind": "int",
+    "value": 19
+  },
+  "bulk_acl_predatory_hijacked_or_listed_venues": {
+    "kind": "int",
+    "value": 0
+  },
+  "bulk_acl_retraction_record_venues": {
+    "kind": "int",
+    "value": 0
+  },
+  "bulk_cryptobib_adverse_retraction_signal_venues": {
+    "kind": "int",
+    "value": 0
+  },
+  "bulk_cryptobib_distinct_venues": {
+    "kind": "int",
+    "value": 48
+  },
+  "bulk_cryptobib_flagged_suspicious_venues": {
+    "kind": "int",
+    "value": 3
+  },
+  "bulk_cryptobib_flagged_venues": {
+    "kind": "int",
+    "value": 3
+  },
+  "bulk_cryptobib_predatory_hijacked_or_listed_venues": {
+    "kind": "int",
+    "value": 0
+  },
+  "bulk_cryptobib_retraction_record_venues": {
+    "kind": "int",
+    "value": 2
+  }
+}

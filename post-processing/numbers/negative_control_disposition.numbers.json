@@ -1,0 +1,14 @@
+{
+  "negctrl_n_clean": {
+    "kind": "int",
+    "value": 319
+  },
+  "negctrl_n_excluded_watchlist_hit": {
+    "kind": "int",
+    "value": 1
+  },
+  "negctrl_n_total_drawn": {
+    "kind": "int",
+    "value": 320
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "strictvote_ge2_all_corrected_n": {
+    "kind": "int",
+    "value": 13396
+  },
+  "strictvote_ge2_all_precorr_n": {
+    "kind": "int",
+    "value": 13828
+  },
+  "strictvote_ge2_audited_corrected_n": {
+    "kind": "int",
+    "value": 79
+  },
+  "strictvote_ge2_audited_precorr_n": {
+    "kind": "int",
+    "value": 511
+  },
+  "strictvote_ge2_resolved_corrected_n": {
+    "kind": "int",
+    "value": 13396
+  },
+  "strictvote_ge2_resolved_precorr_n": {
+    "kind": "int",
+    "value": 13828
+  },
+  "strictvote_n_audited_citations": {
+    "kind": "int",
+    "value": 534
+  },
+  "strictvote_resolved_population_n": {
+    "kind": "int",
+    "value": 4277878
+  },
+  "strictvote_strict_in_resolved_n": {
+    "kind": "int",
+    "value": 2197
+  },
+  "strictvote_votes_ge_legit_all_corrected_n": {
+    "kind": "int",
+    "value": 157242
+  },
+  "strictvote_votes_ge_legit_all_precorr_n": {
+    "kind": "int",
+    "value": 157513
+  },
+  "strictvote_votes_ge_legit_audited_corrected_n": {
+    "kind": "int",
+    "value": 239
+  },
+  "strictvote_votes_ge_legit_audited_precorr_n": {
+    "kind": "int",
+    "value": 510
+  },
+  "strictvote_votes_ge_legit_resolved_corrected_n": {
+    "kind": "int",
+    "value": 156767
+  },
+  "strictvote_votes_ge_legit_resolved_precorr_n": {
+    "kind": "int",
+    "value": 157038
+  }
+}

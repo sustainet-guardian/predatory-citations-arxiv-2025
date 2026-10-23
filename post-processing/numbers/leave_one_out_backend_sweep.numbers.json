@@ -1,0 +1,66 @@
+{
+  "leave_one_out_algerian_ministry_broad_after_exclusion": {
+    "kind": "int",
+    "value": 2961
+  },
+  "leave_one_out_algerian_ministry_broad_pct_change": {
+    "decimals": 1,
+    "den": 5911,
+    "kind": "ratio",
+    "num": -2950
+  },
+  "leave_one_out_algerian_ministry_strict_after_exclusion": {
+    "kind": "int",
+    "value": 1834
+  },
+  "leave_one_out_algerian_ministry_strict_pct_change": {
+    "decimals": 1,
+    "den": 2197,
+    "kind": "ratio",
+    "num": -363
+  },
+  "leave_one_out_broad_baseline": {
+    "kind": "int",
+    "value": 5911
+  },
+  "leave_one_out_kscien_standalone_journals_broad_pct_change": {
+    "decimals": 1,
+    "den": 5911,
+    "kind": "ratio",
+    "num": -314
+  },
+  "leave_one_out_reimplementation_match_pct": {
+    "decimals": 1,
+    "den": 5911,
+    "kind": "ratio",
+    "num": 5911
+  },
+  "leave_one_out_reimplementation_records": {
+    "kind": "int",
+    "value": 5911
+  },
+  "leave_one_out_scopus_strict_after_exclusion": {
+    "kind": "int",
+    "value": 2680
+  },
+  "leave_one_out_scopus_strict_pct_change": {
+    "decimals": 1,
+    "den": 2197,
+    "kind": "ratio",
+    "num": 483
+  },
+  "leave_one_out_strict_baseline": {
+    "kind": "int",
+    "value": 2197
+  },
+  "leave_one_out_ugc_care_cloned_grouptwo_broad_pct_change": {
+    "decimals": 1,
+    "den": 5911,
+    "kind": "ratio",
+    "num": -119
+  },
+  "leave_one_out_ugc_care_cloned_grouptwo_strict_after_exclusion": {
+    "kind": "int",
+    "value": 2120
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "uccdv_both_votes_n_legitimate": {
+    "kind": "int",
+    "value": 149
+  },
+  "uccdv_both_votes_n_other_verdict": {
+    "kind": "int",
+    "value": 0
+  },
+  "uccdv_both_votes_n_predatory": {
+    "kind": "int",
+    "value": 87
+  },
+  "uccdv_both_votes_n_suspicious": {
+    "kind": "int",
+    "value": 0
+  },
+  "uccdv_both_votes_n_unknown": {
+    "kind": "int",
+    "value": 0
+  },
+  "uccdv_broad_before_n": {
+    "kind": "int",
+    "value": 5911
+  },
+  "uccdv_groupi_n_cloned": {
+    "kind": "int",
+    "value": 7
+  },
+  "uccdv_groupi_n_cloned_and_included_same_group": {
+    "kind": "int",
+    "value": 7
+  },
+  "uccdv_groupii_n_cloned": {
+    "kind": "int",
+    "value": 229
+  },
+  "uccdv_groupii_n_cloned_and_included_same_group": {
+    "kind": "int",
+    "value": 229
+  },
+  "uccdv_n_broad_with_cloned": {
+    "kind": "int",
+    "value": 236
+  },
+  "uccdv_n_cloned_both_groups": {
+    "kind": "int",
+    "value": 0
+  },
+  "uccdv_n_no_included_vote": {
+    "kind": "int",
+    "value": 0
+  },
+  "uccdv_n_population": {
+    "kind": "int",
+    "value": 8720772
+  },
+  "uccdv_n_strict_gained": {
+    "kind": "int",
+    "value": 36
+  },
+  "uccdv_n_strict_gained_audited_entries": {
+    "kind": "int",
+    "value": 7
+  },
+  "uccdv_n_strict_lost": {
+    "kind": "int",
+    "value": 0
+  },
+  "uccdv_n_strict_with_cloned": {
+    "kind": "int",
+    "value": 87
+  },
+  "uccdv_n_strict_with_cloned_and_same_group_included": {
+    "kind": "int",
+    "value": 87
+  },
+  "uccdv_n_survivors_with_cloned": {
+    "kind": "int",
+    "value": 8
+  },
+  "uccdv_n_verdict_changed": {
+    "kind": "int",
+    "value": 36
+  },
+  "uccdv_n_with_cloned_and_any_included": {
+    "kind": "int",
+    "value": 236
+  },
+  "uccdv_n_with_cloned_and_other_group_only_included": {
+    "kind": "int",
+    "value": 0
+  },
+  "uccdv_n_with_cloned_and_same_group_included": {
+    "kind": "int",
+    "value": 236
+  },
+  "uccdv_n_with_cloned_vote": {
+    "kind": "int",
+    "value": 236
+  },
+  "uccdv_strict_after_n": {
+    "kind": "int",
+    "value": 2233
+  },
+  "uccdv_strict_before_n": {
+    "kind": "int",
+    "value": 2197
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "mathjsc_pct_jsc": {
+    "decimals": 1,
+    "den": 1204,
+    "kind": "ratio",
+    "num": 1101
+  },
+  "mathjsc_rate_excl_jsc_pct": {
+    "decimals": 3,
+    "den": 417661,
+    "kind": "ratio",
+    "num": 103
+  }
+}

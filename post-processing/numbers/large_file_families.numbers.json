@@ -1,0 +1,20 @@
+{
+  "megafam_acl_pct": {
+    "decimals": 2,
+    "den": 95091424,
+    "kind": "ratio",
+    "num": 87178123
+  },
+  "megafam_cryptobib_pct": {
+    "decimals": 2,
+    "den": 95091424,
+    "kind": "ratio",
+    "num": 2794571
+  },
+  "megafam_other_pct": {
+    "decimals": 2,
+    "den": 95091424,
+    "kind": "ratio",
+    "num": 5118730
+  }
+}

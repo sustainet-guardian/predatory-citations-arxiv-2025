@@ -1,0 +1,132 @@
+{
+  "sisf_broad_base_n": {
+    "kind": "int",
+    "value": 5911
+  },
+  "sisf_issnl_broad_with_both_n": {
+    "kind": "int",
+    "value": 5928
+  },
+  "sisf_issnl_broad_with_restored_n": {
+    "kind": "int",
+    "value": 5919
+  },
+  "sisf_issnl_broad_without_later_cache_only_n": {
+    "kind": "int",
+    "value": 5920
+  },
+  "sisf_issnl_n_later_cache_only": {
+    "kind": "int",
+    "value": 9
+  },
+  "sisf_issnl_n_mismatch_refs": {
+    "kind": "int",
+    "value": 534
+  },
+  "sisf_issnl_n_pairs": {
+    "kind": "int",
+    "value": 6
+  },
+  "sisf_issnl_n_pairs_distinct_family": {
+    "kind": "int",
+    "value": 1
+  },
+  "sisf_issnl_n_pairs_same_family": {
+    "kind": "int",
+    "value": 4
+  },
+  "sisf_issnl_n_pairs_unresolved": {
+    "kind": "int",
+    "value": 1
+  },
+  "sisf_issnl_n_refs_cache_issn_differs": {
+    "kind": "int",
+    "value": 46
+  },
+  "sisf_issnl_n_refs_null_cache_only": {
+    "kind": "int",
+    "value": 488
+  },
+  "sisf_issnl_n_restored": {
+    "kind": "int",
+    "value": 8
+  },
+  "sisf_issnl_strict_max_movement_n": {
+    "kind": "int",
+    "value": 17
+  },
+  "sisf_issnl_strict_max_movement_pct": {
+    "decimals": 3,
+    "den": 2197,
+    "kind": "ratio",
+    "num": 17
+  },
+  "sisf_issnl_strict_with_both_n": {
+    "kind": "int",
+    "value": 2214
+  },
+  "sisf_issnl_strict_with_restored_n": {
+    "kind": "int",
+    "value": 2205
+  },
+  "sisf_issnl_strict_without_later_cache_only_n": {
+    "kind": "int",
+    "value": 2206
+  },
+  "sisf_scopus_n_active": {
+    "kind": "int",
+    "value": 30294
+  },
+  "sisf_scopus_n_inactive": {
+    "kind": "int",
+    "value": 16240
+  },
+  "sisf_scopus_n_loaded_in_cache_record": {
+    "kind": "int",
+    "value": 30294
+  },
+  "sisf_scopus_n_quality_flagged_loaded": {
+    "kind": "int",
+    "value": 0
+  },
+  "sisf_scopus_n_quality_flagged_rows": {
+    "kind": "int",
+    "value": 830
+  },
+  "sisf_scopus_n_rows": {
+    "kind": "int",
+    "value": 46534
+  },
+  "sisf_sib_n_files_total": {
+    "kind": "int",
+    "value": 9594
+  },
+  "sisf_sib_n_files_without_excluded_entry": {
+    "kind": "int",
+    "value": 47
+  },
+  "sisf_sib_n_promoted_broad": {
+    "kind": "int",
+    "value": 1
+  },
+  "sisf_sib_n_promoted_entries": {
+    "kind": "int",
+    "value": 2199
+  },
+  "sisf_sib_n_promoted_files": {
+    "kind": "int",
+    "value": 113
+  },
+  "sisf_sib_n_promoted_strict": {
+    "kind": "int",
+    "value": 0
+  },
+  "sisf_sib_n_promoted_submissions": {
+    "kind": "int",
+    "value": 93
+  },
+  "sisf_strict_base_n": {
+    "kind": "int",
+    "value": 2197
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "hijackedbench_doaj_total": {
+    "kind": "int",
+    "value": 4352
+  },
+  "hijackedbench_rw_total": {
+    "kind": "int",
+    "value": 455
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "doajxtab_legit_n": {
+    "kind": "int",
+    "value": 2731
+  },
+  "doajxtab_legit_n_reinstated": {
+    "kind": "int",
+    "value": 557
+  },
+  "doajxtab_legit_pct_of_disjoint": {
+    "decimals": 1,
+    "den": 4050,
+    "kind": "ratio",
+    "num": 2731
+  },
+  "doajxtab_legit_pct_reinstated": {
+    "decimals": 1,
+    "den": 2731,
+    "kind": "ratio",
+    "num": 557
+  },
+  "doajxtab_n_disjoint": {
+    "kind": "int",
+    "value": 4050
+  },
+  "doajxtab_nonlegit_n": {
+    "kind": "int",
+    "value": 1319
+  },
+  "doajxtab_nonlegit_n_reinstated": {
+    "kind": "int",
+    "value": 127
+  },
+  "doajxtab_nonlegit_pct_reinstated": {
+    "decimals": 1,
+    "den": 1319,
+    "kind": "ratio",
+    "num": 127
+  },
+  "doajxtab_records_legit_pct_of_disjoint": {
+    "decimals": 1,
+    "den": 4136,
+    "kind": "ratio",
+    "num": 2781
+  }
+}

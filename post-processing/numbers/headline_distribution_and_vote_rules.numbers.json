@@ -1,0 +1,136 @@
+{
+  "headline_hijacked_n": {
+    "kind": "int",
+    "value": 573
+  },
+  "headline_hijacked_pct": {
+    "decimals": 3,
+    "den": 8720772,
+    "kind": "ratio",
+    "num": 573
+  },
+  "headline_insufficient_data_n": {
+    "kind": "int",
+    "value": 1236
+  },
+  "headline_insufficient_data_pct": {
+    "decimals": 3,
+    "den": 8720772,
+    "kind": "ratio",
+    "num": 1236
+  },
+  "headline_legitimate_n": {
+    "kind": "int",
+    "value": 4175927
+  },
+  "headline_legitimate_pct": {
+    "decimals": 1,
+    "den": 8720772,
+    "kind": "ratio",
+    "num": 4175927
+  },
+  "headline_not_applicable_n": {
+    "kind": "int",
+    "value": 2173221
+  },
+  "headline_not_applicable_pct": {
+    "decimals": 1,
+    "den": 8720772,
+    "kind": "ratio",
+    "num": 2173221
+  },
+  "headline_suspicious_n": {
+    "kind": "int",
+    "value": 98518
+  },
+  "headline_suspicious_pct": {
+    "decimals": 1,
+    "den": 8720772,
+    "kind": "ratio",
+    "num": 98518
+  },
+  "headline_total": {
+    "kind": "int",
+    "value": 8720772
+  },
+  "headline_unknown_n": {
+    "kind": "int",
+    "value": 2269673
+  },
+  "headline_unknown_pct": {
+    "decimals": 1,
+    "den": 8720772,
+    "kind": "ratio",
+    "num": 2269673
+  },
+  "jsc_n_flagged_solely_algerian": {
+    "kind": "int",
+    "value": 1719
+  },
+  "jsc_n_total_citations": {
+    "kind": "int",
+    "value": 1721
+  },
+  "strictalt_ge2_votes_n": {
+    "kind": "int",
+    "value": 13828
+  },
+  "strictalt_votes_ge_legit_n": {
+    "kind": "int",
+    "value": 157513
+  },
+  "unknownsens_fivehundredths_count": {
+    "kind": "int",
+    "value": 3332
+  },
+  "unknownsens_fivehundredths_multiple": {
+    "decimals": 1,
+    "kind": "float",
+    "value": 1.5
+  },
+  "unknownsens_onehalf_count": {
+    "kind": "int",
+    "value": 13545
+  },
+  "unknownsens_onehalf_multiple": {
+    "decimals": 1,
+    "kind": "float",
+    "value": 6.2
+  },
+  "unknownsens_onehundredth_count": {
+    "kind": "int",
+    "value": 2424
+  },
+  "unknownsens_onehundredth_multiple": {
+    "decimals": 1,
+    "kind": "float",
+    "value": 1.1
+  },
+  "unknownsens_onepercent_count": {
+    "kind": "int",
+    "value": 24894
+  },
+  "unknownsens_onepercent_multiple": {
+    "decimals": 1,
+    "kind": "float",
+    "value": 11.3
+  },
+  "unknownsens_onetenth_count": {
+    "kind": "int",
+    "value": 4467
+  },
+  "unknownsens_onetenth_multiple": {
+    "decimals": 1,
+    "kind": "float",
+    "value": 2.0
+  },
+  "unknownsens_zero_count": {
+    "kind": "int",
+    "value": 2197
+  },
+  "unknownsens_zero_multiple": {
+    "decimals": 1,
+    "kind": "float",
+    "value": 1.0
+  }
+}

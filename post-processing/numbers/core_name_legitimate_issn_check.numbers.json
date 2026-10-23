@@ -1,0 +1,22 @@
+{
+  "mirrorexhaustive_n_checkable": {
+    "kind": "int",
+    "value": 2296
+  },
+  "mirrorexhaustive_n_true_candidates": {
+    "kind": "int",
+    "value": 208569
+  },
+  "mirrorexhaustive_pct_confirmed_misattribution": {
+    "decimals": 1,
+    "den": 2296,
+    "kind": "ratio",
+    "num": 1263
+  },
+  "mirrorexhaustive_pct_no_citing_issn": {
+    "decimals": 2,
+    "den": 208569,
+    "kind": "ratio",
+    "num": 206273
+  }
+}
